@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.229 (2024-04-10)
+
+## What's Changed
+* feat: optimization calls by @StanGirard in https://github.com/QuivrHQ/quivr/pull/2417
+* feat: Add assistant module and remove ingestion module by @StanGirard in https://github.com/QuivrHQ/quivr/pull/2420
+
+
+**Full Changelog**: https://github.com/QuivrHQ/quivr/compare/v0.0.228...v0.0.229
+
 ## 0.0.228 (2024-04-10)
 
 ## What's Changed
